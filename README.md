@@ -1,4 +1,4 @@
-# React Flow - Glory App
+# React Flow - Demo APT App
 
 ### Features of the mindmap include
 

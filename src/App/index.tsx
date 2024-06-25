@@ -140,11 +140,11 @@ function Flow() {
     >
       <Controls showInteractive={false} />
       <Panel position="top-left" className="header">
-        React Flow - Glory
+        React Flow - Demo APT
       </Panel>
       <Controls showInteractive={false} />
       <Panel position="top-left" className="panel-title">
-        React Flow - Glory
+        React Flow - Demo APT
       </Panel>
       <Panel position="top-right" className="react-flow__panel-save-restore">
         <DownloadButton />
