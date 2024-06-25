@@ -1,9 +1,5 @@
 # React Flow - Glory App
 
-![mindmap](https://user-images.githubusercontent.com/2857535/210797861-510f0a3d-fd67-46a7-8a8d-c409cb7dbcdb.png)
-
-This mind map app was created as an example for the blog post ["Tutorial: Build a Mind Map App with React Flow"](https://reactflow.dev/blog/mind-map-app-with-react-flow/), which has a step-by-step guide on how to build a this mindmap (for intermediate or advanced React users). [React Flow](https://reactflow.dev) is a library for creating node-based UIs.
-
 ### Features of the mindmap include
 
 - Quickly create new nodes on drag + mouse-release
@@ -16,8 +12,6 @@ This mind map app was created as an example for the blog post ["Tutorial: Build 
 - Custom node with an input field
 - Using node area as a handle
 - Dynamic width and auto focus
-
-Demo: https://react-flow-mindmap.netlify.app
 
 ## Development
 
